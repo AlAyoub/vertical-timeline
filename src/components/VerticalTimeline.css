@@ -1,0 +1,19 @@
+.VerticalTimeline {
+  background-color: rgb(249, 248, 247);
+}
+
+.company_image {
+  max-width: 22px;
+  max-height: 22px;
+  margin-right: 5px;
+  padding-top: 5px;
+  border-radius: 75%;
+}
+
+.companyColor {
+  color: white !important;
+}
+
+.dateColor {
+  color: white !important;
+}
